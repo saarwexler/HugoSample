@@ -12,10 +12,10 @@
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>http://saarwexler.github.io/HugoSample/blog/2015/10/10/migrate-from-jekyll/</link>
+      <link>http://saarwexler.github.io/HugoSample/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>http://saarwexler.github.io/HugoSample/blog/2015/10/10/migrate-from-jekyll/</guid>
+      <guid>http://saarwexler.github.io/HugoSample/migrate-from-jekyll/</guid>
       <description>
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
@@ -189,10 +189,10 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     
     <item>
       <title>Linked post</title>
-      <link>http://saarwexler.github.io/HugoSample/blog/2015/10/02/linked-post/</link>
+      <link>http://saarwexler.github.io/HugoSample/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://saarwexler.github.io/HugoSample/blog/2015/10/02/linked-post/</guid>
+      <guid>http://saarwexler.github.io/HugoSample/linked-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;
@@ -208,10 +208,10 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     
     <item>
       <title>Go is for lovers</title>
-      <link>http://saarwexler.github.io/HugoSample/blog/2015/09/17/go-is-for-lovers/</link>
+      <link>http://saarwexler.github.io/HugoSample/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>http://saarwexler.github.io/HugoSample/blog/2015/09/17/go-is-for-lovers/</guid>
+      <guid>http://saarwexler.github.io/HugoSample/go-is-for-lovers/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
@@ -554,10 +554,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>http://saarwexler.github.io/HugoSample/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>http://saarwexler.github.io/HugoSample/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://saarwexler.github.io/HugoSample/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <guid>http://saarwexler.github.io/HugoSample/hugo-is-for-lovers/</guid>
       <description>
 
 &lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
@@ -641,10 +641,10 @@ Having nearly instant feedback enables you to have your creativity flow without 
     
     <item>
       <title>Creating a new theme</title>
-      <link>http://saarwexler.github.io/HugoSample/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>http://saarwexler.github.io/HugoSample/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://saarwexler.github.io/HugoSample/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>http://saarwexler.github.io/HugoSample/creating-a-new-theme/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -1738,78 +1738,6 @@ $ vi themes/zafta/layouts/_default/single.html
 &lt;h3 id=&#34;don-t-repeat-yourself&#34;&gt;Don&amp;rsquo;t Repeat Yourself&lt;/h3&gt;
 
 &lt;p&gt;DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&amp;rsquo;re figuring that out, accept that you&amp;rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&amp;rsquo;s okay to delay splitting up a template.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://saarwexler.github.io/HugoSample/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://saarwexler.github.io/HugoSample/contact/</guid>
-      <description>
-
-&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;
-
-&lt;p&gt;Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.&lt;/p&gt;
-
-&lt;p&gt;Please feel free to contact us, our customer service center is working for you &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>http://saarwexler.github.io/HugoSample/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://saarwexler.github.io/HugoSample/faq/</guid>
-      <description>
-
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
-
-&lt;h2 id=&#34;1-what-to-do-if-i-have-still-not-received-the-order&#34;&gt;1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?&lt;/h2&gt;
-
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2-what-are-the-postal-rates&#34;&gt;2. WHAT ARE THE POSTAL RATES?&lt;/h2&gt;
-
-&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore sustainable VHS.&lt;/p&gt;
-
-&lt;h2 id=&#34;3-do-you-send-overseas&#34;&gt;3. DO YOU SEND OVERSEAS?&lt;/h2&gt;
-
-&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore sustainable VHS.&lt;/p&gt;
-
-&lt;h2 id=&#34;4-why-are-you-more-expensive-than-others&#34;&gt;4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?&lt;/h2&gt;
-
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;5-another-important-question&#34;&gt;5. ANOTHER IMPORTANT QUESTION&lt;/h2&gt;
-
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In case you haven&amp;rsquo;t found the answer for your question please feel free to contact us, our customer support will be happy to help you.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
